@@ -325,8 +325,6 @@ To verify the application was successfully deployed in openshift run:
 oc get pods -n ado-openshift
 ```
 
-Copy
-
 expected output:
 
 ```fallback
